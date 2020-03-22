@@ -20,7 +20,7 @@
 ![First Paint](/performance/first_paint.JPG)
 
 ### First Meanningful Paint 
-![First Meanningful Paint ](/performance/fmp.JPG)
+![First Meanningful Paint ](/performance/FMP.JPG)
 
 ### DOM Content Loaded
 ![DOM Content Loaded](/performance/DCL.JPG)
@@ -30,16 +30,16 @@
 
 ## Общее время этапов обработки документа
 
-![Summary](/performance/summary.JPG)
+![Summary](/performance/Summary.JPG)
 
 # Coverage
 
 ## Неиспользуемый CSS
 
-### 400+ кб
+### 394 кб (89% от общего количества)
 ![Unused_CSS](/coverage/unused_css.JPG)
 
 ## Неиспользуемый JS
 
-### 3300+ кб
+### 2500 кб (63% от общего количества)
 ![Unused_JS](/coverage/unused_js.JPG)

@@ -1,5 +1,27 @@
 # Network
 
+## Дублирующие ресурсы
+
+![Вот](/network/dublicates1.JPG)
+
+![Вот](/network/dublicates2.JPG)
+
+![Вот](/network/dublicates3.JPG)
+
+![Вот](/network/dublicates4.JPG)
+
+![Вот](/network/dublicates5.JPG)
+
+![Вот](/network/dublicates6.JPG)
+
+![Вот](/network/dublicates7.JPG)
+
+![Вот](/network/dublicates8.JPG)
+
+![Вот](/network/dublicates9.JPG)
+
+![Вот](/network/dublicates10.JPG)
+
 ## Не оптимизированные ресурсы
 
 ![Большие по размеру картинки](/network/big_size_resources.JPG)
